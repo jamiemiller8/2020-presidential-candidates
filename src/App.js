@@ -1,11 +1,15 @@
 import React from 'react';
 import './App.css';
+import { Route } from "react-router-dom"
 import Home from './Home'
-import Candidate from './Candidate'
-import Issue from './Issue'
-import Form from './Form'
-import candidates from './data/w-candidate-data.json'
+// import candidates from './data/w-candidate-data.json'
 
-
+function App() {
+  return (
+    <div className="App">
+      <Route path='/home/' component = {Home}/>
+    </div>
+  );
+}
 
 export default App;
