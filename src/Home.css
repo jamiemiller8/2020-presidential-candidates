@@ -1,0 +1,26 @@
+body {
+    background-color: #EFE2BA;
+}
+
+h1 {
+    color: #4056A1;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.link {
+    text-decoration: none;
+    color: #F13C20;
+}
+
+.home-links {
+    display: inline;
+    display: flex;
+    margin: 50px;
+    justify-content: space-around;
+}
