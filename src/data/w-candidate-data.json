@@ -1,0 +1,80 @@
+[
+  {
+    "name:": "Tulsi Gabbard",
+    "state": "HI",
+    "imageUrl": "www.placeholder.com",
+    "stillRunning": true,
+    "currentTitle": "Representative",
+    "abortion": "For",
+    "immigration": "Undecided",
+    "criminalJustice": "Against",
+    "minimumWage": "For",
+    "gunControl": "For",
+    "military": "Against"
+  },
+  {
+    "name:": "Kirsten Gillibrand",
+    "state": "NY",
+    "imageUrl": "www.placeholder.com",
+    "stillRunning": false,
+    "currentTitle": "Senator",
+    "abortion": "For",
+    "immigration": "For",
+    "criminalJustice": "Against",
+    "minimumWage": "For",
+    "gunControl": "Other",
+    "military": "Against"
+  },
+  {
+    "name:": "Kamala Harris",
+    "state": "CA",
+    "imageUrl": "www.placeholder.com",
+    "stillRunning": true,
+    "currentTitle": "Senator",
+    "abortion": "For",
+    "immigration": "For",
+    "criminalJustice": "Against",
+    "minimumWage": "For",
+    "gunControl": "For",
+    "military": "Against"
+  },
+  {
+    "name:": "Amy Klobuchar",
+    "state": "MN",
+    "imageUrl": "www.placeholder.com",
+    "stillRunning": true,
+    "currentTitle": "Senator",
+    "abortion": "Other",
+    "immigration": "Undecided",
+    "criminalJustice": "Against",
+    "minimumWage": "For",
+    "gunControl": "For",
+    "military": "For"
+  },
+  {
+    "name:": "Elizabeth Warren",
+    "state": "MA",
+    "imageUrl": "www.placeholder.com",
+    "stillRunning": true,
+    "currentTitle": "Senator",
+    "abortion": "For",
+    "immigration": "For",
+    "criminalJustice": "Against",
+    "minimumWage": "For",
+    "gunControl": "For",
+    "military": "Against"
+  },
+  {
+    "name:": "Marianne Williamson",
+    "state": "CA",
+    "imageUrl": "www.placeholder.com",
+    "stillRunning": true,
+    "currentTitle": "New Age Author",
+    "abortion": "For",
+    "immigration": "For",
+    "criminalJustice": "Against",
+    "minimumWage": "For",
+    "gunControl": "For",
+    "military": "Against"
+  }
+]
