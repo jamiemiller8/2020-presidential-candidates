@@ -16,7 +16,7 @@ class AllCandidates extends Component {
     console.log(this.state.candidatesList);
     let allCandidates = this.state.candidatesList.map(candidate => {
       return (
-        <Link to={`/home/candidates/${candidate.name}`}>
+        <Link to={`/candidates/${candidate.name}`}>
           <div className="candidate-item">
             <img src={candidate.imageUrl}></img>
             <h4>{candidate.name}</h4>

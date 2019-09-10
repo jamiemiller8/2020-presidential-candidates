@@ -22,12 +22,12 @@ class Home extends Component {
                 </Link>
             </div>
             <div className="home-issues-link">
-                <Link to="/home/issues/" className="link">
+                <Link to="/issues/" className="link">
                     <h2>Issues</h2>
                 </Link>
             </div>
             <div className="home-form-link">
-                <Link to="/home/form" className="link">
+                <Link to="/form/" className="link">
                     <h2>Suggestion Form</h2>
                 </Link>
             </div>
