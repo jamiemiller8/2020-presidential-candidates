@@ -1,6 +1,7 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import { Link,Route } from "react-router-dom";
 import "./Home.css";
+
 
 class Home extends Component {
   render() {
@@ -16,7 +17,7 @@ class Home extends Component {
         </div>
         <div className="home-links">
             <div className="home-candidate-link">
-                <Link to="/home/candidates/" className="link">
+                <Link to="/candidates/" className="link">
                     <h2>Candidates</h2>
                 </Link>
             </div>
@@ -30,6 +31,8 @@ class Home extends Component {
                     <h2>Suggestion Form</h2>
                 </Link>
             </div>
+
+
         </div>
       </div>
     );
