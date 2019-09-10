@@ -25,8 +25,8 @@ class AllCandidates extends Component {
       );
     });
     return (
-      <div>
-        <h2>test</h2>
+      <div className="candidates-title">
+        <h2>Meet the Female Candidates of 2020 </h2>
         <div className="candidatesListContainer">{allCandidates}</div>
       </div>
     );

@@ -5,3 +5,6 @@
     grid-template-columns: repeat(3,1fr);
 }
 
+.candidates-title {
+    color: #4056A1;
+}
