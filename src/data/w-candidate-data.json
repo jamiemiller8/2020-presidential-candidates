@@ -2,7 +2,7 @@
   {
     "name:": "Tulsi Gabbard",
     "state": "HI",
-    "imageUrl": "www.placeholder.com",
+    "imageUrl": "src/images/Tulsi_Gabbard,_official_portrait,_113th_Congress.jpg",
     "stillRunning": true,
     "currentTitle": "Representative",
     "abortion": "For",
@@ -15,7 +15,7 @@
   {
     "name:": "Kirsten Gillibrand",
     "state": "NY",
-    "imageUrl": "www.placeholder.com",
+    "imageUrl": "src/images/Gillibrand_Kirsten-041019-RLH-025a.jpg",
     "stillRunning": false,
     "currentTitle": "Senator",
     "abortion": "For",
@@ -28,7 +28,7 @@
   {
     "name:": "Kamala Harris",
     "state": "CA",
-    "imageUrl": "www.placeholder.com",
+    "imageUrl": "src/images/kamala-harris-headshot.jpg",
     "stillRunning": true,
     "currentTitle": "Senator",
     "abortion": "For",
@@ -41,7 +41,7 @@
   {
     "name:": "Amy Klobuchar",
     "state": "MN",
-    "imageUrl": "www.placeholder.com",
+    "imageUrl": "src/images/Amy_Klobuchar.jpg",
     "stillRunning": true,
     "currentTitle": "Senator",
     "abortion": "Other",
@@ -54,7 +54,7 @@
   {
     "name:": "Elizabeth Warren",
     "state": "MA",
-    "imageUrl": "www.placeholder.com",
+    "imageUrl": "src/images/Elizabeth-Warren-headshot.jpg",
     "stillRunning": true,
     "currentTitle": "Senator",
     "abortion": "For",
@@ -67,7 +67,7 @@
   {
     "name:": "Marianne Williamson",
     "state": "CA",
-    "imageUrl": "www.placeholder.com",
+    "imageUrl": "src/images/Marianne-Williamson-headshot.jpg",
     "stillRunning": true,
     "currentTitle": "New Age Author",
     "abortion": "For",
