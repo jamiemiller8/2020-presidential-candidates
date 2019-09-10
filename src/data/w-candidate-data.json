@@ -1,6 +1,6 @@
 [
   {
-    "name:": "Tulsi Gabbard",
+    "name": "Tulsi Gabbard",
     "state": "HI",
     "imageUrl": "src/images/Tulsi_Gabbard,_official_portrait,_113th_Congress.jpg",
     "stillRunning": true,
@@ -13,7 +13,7 @@
     "military": "Against"
   },
   {
-    "name:": "Kirsten Gillibrand",
+    "name": "Kirsten Gillibrand",
     "state": "NY",
     "imageUrl": "src/images/Gillibrand_Kirsten-041019-RLH-025a.jpg",
     "stillRunning": false,
@@ -26,7 +26,7 @@
     "military": "Against"
   },
   {
-    "name:": "Kamala Harris",
+    "name": "Kamala Harris",
     "state": "CA",
     "imageUrl": "src/images/kamala-harris-headshot.jpg",
     "stillRunning": true,
@@ -39,7 +39,7 @@
     "military": "Against"
   },
   {
-    "name:": "Amy Klobuchar",
+    "name": "Amy Klobuchar",
     "state": "MN",
     "imageUrl": "src/images/Amy_Klobuchar.jpg",
     "stillRunning": true,
@@ -52,7 +52,7 @@
     "military": "For"
   },
   {
-    "name:": "Elizabeth Warren",
+    "name": "Elizabeth Warren",
     "state": "MA",
     "imageUrl": "src/images/Elizabeth-Warren-headshot.jpg",
     "stillRunning": true,
@@ -65,7 +65,7 @@
     "military": "Against"
   },
   {
-    "name:": "Marianne Williamson",
+    "name": "Marianne Williamson",
     "state": "CA",
     "imageUrl": "src/images/Marianne-Williamson-headshot.jpg",
     "stillRunning": true,

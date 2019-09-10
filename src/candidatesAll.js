@@ -9,17 +9,22 @@ class AllCandidates extends Component {
     constructor() {
         super()
         this.state = {
-            candidates:candidates
+            candidatesList:candidates
         }
 
         
     }
     render() {
-        let allCandidates = this.state.candidates.map(candidate => {
+        console.log(this.state.candidatesList)
+        let allCandidates = this.state.candidatesList.map(candidate => {
             return (
-                <div className="candidatesListContainer" key={candidate.name}>
+                <div className="candidatesListContainer">
                     <Link to={`/home/candidates/${candidate.name}`}>
+                        <div>
                         <img src={candidate.imageUrl} alt={candidate.name}></img>
+                        <h4>{candidate.name}</h4>
+
+                        </div>
                     </Link>
                 </div>
             )

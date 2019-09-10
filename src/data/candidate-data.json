@@ -1,6 +1,6 @@
 [
     {
-        "name:": "Michael Bennet",
+        "name": "Michael Bennet",
         "state": "CO",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -13,7 +13,7 @@
         "military": "For"
     },
     {
-        "name:": "Joe Biden",
+        "name": "Joe Biden",
         "state": "DE",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -26,7 +26,7 @@
         "military": "For"
     },
     {
-        "name:": "Bill de Blasio",
+        "name": "Bill de Blasio",
         "state": "NY",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -39,7 +39,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Cory Booker",
+        "name": "Cory Booker",
         "state": "NJ",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -52,7 +52,7 @@
         "military": "For"
     },
     {
-        "name:": "Steve Bullock",
+        "name": "Steve Bullock",
         "state": "MT",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -65,7 +65,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Pete Buttigieg",
+        "name": "Pete Buttigieg",
         "state": "IN",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -78,7 +78,7 @@
         "military": "For"
     },
     {
-        "name:": "Julián Castro",
+        "name": "Julián Castro",
         "state": "TX",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -91,7 +91,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "John Delaney",
+        "name": "John Delaney",
         "state": "MD",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -104,7 +104,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Tulsi Gabbard",
+        "name": "Tulsi Gabbard",
         "state": "HI",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -117,7 +117,7 @@
         "military": "Against"
     },
     {
-        "name:": "Kirsten Gillibrand",
+        "name": "Kirsten Gillibrand",
         "state": "NY",
         "imageUrl": "www.placeholder.com",
         "stillRunning": false,
@@ -130,7 +130,7 @@
         "military": "Against"
     },
     {
-        "name:": "Kamala Harris",
+        "name": "Kamala Harris",
         "state": "CA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -143,7 +143,7 @@
         "military": "Against"
     },
     {
-        "name:": "Jay Inslee",
+        "name": "Jay Inslee",
         "state": "WA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": false,
@@ -156,7 +156,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Amy Klobuchar",
+        "name": "Amy Klobuchar",
         "state": "MN",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -169,7 +169,7 @@
         "military": "For"
     },
     {
-        "name:": "Wayne Messam",
+        "name": "Wayne Messam",
         "state": "FL",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -182,7 +182,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Seth Moulton",
+        "name": "Seth Moulton",
         "state": "MA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": false,
@@ -195,7 +195,7 @@
         "military": "For"
     },
     {
-        "name:": "Beto O'Rourke",
+        "name": "Beto O'Rourke",
         "state": "TX",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -208,7 +208,7 @@
         "military": "For"
     },
     {
-        "name:": "Tim Ryan",
+        "name": "Tim Ryan",
         "state": "OH",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -221,7 +221,7 @@
         "military": "For"
     },
     {
-        "name:": "Bernie Sanders",
+        "name": "Bernie Sanders",
         "state": "VT",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -234,7 +234,7 @@
         "military": "Against"
     },
     {
-        "name:": "Mark Sanford",
+        "name": "Mark Sanford",
         "state": "SC",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -247,7 +247,7 @@
         "military": "For"
     },
     {
-        "name:": "Joe Sestak",
+        "name": "Joe Sestak",
         "state": "PA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -260,7 +260,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Tom Steyer",
+        "name": "Tom Steyer",
         "state": "CA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -273,7 +273,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Donald Trump",
+        "name": "Donald Trump",
         "state": "NY",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -286,7 +286,7 @@
         "military": "For"
     },
     {
-        "name:": "Joe Walsh",
+        "name": "Joe Walsh",
         "state": "IL",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -299,7 +299,7 @@
         "military": "Undecided"
     },
     {
-        "name:": "Elizabeth Warren",
+        "name": "Elizabeth Warren",
         "state": "MA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -312,7 +312,7 @@
         "military": "Against"
     },
     {
-        "name:": "Bill Weld",
+        "name": "Bill Weld",
         "state": "MA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -325,7 +325,7 @@
         "military": "Against"
     },
     {
-        "name:": "Marianne Williamson",
+        "name": "Marianne Williamson",
         "state": "CA",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
@@ -338,7 +338,7 @@
         "military": "Against"
     },
     {
-        "name:": "Andrew Yang",
+        "name": "Andrew Yang",
         "state": "NY",
         "imageUrl": "www.placeholder.com",
         "stillRunning": true,
