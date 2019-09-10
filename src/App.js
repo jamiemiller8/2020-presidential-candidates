@@ -1,6 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Home from './Home'
+import Candidate from './Candidate'
+import Issue from './Issue'
+import Form from './Form'
 
 function App() {
   return (
