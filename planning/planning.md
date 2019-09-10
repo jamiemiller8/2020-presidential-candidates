@@ -20,6 +20,9 @@ Data to include for json file:
 - gunControl: string or boolean
 - military: string or boolean
 
+With these issues, should give 4 value options:
+- For, Against, Undecided, Other
+
 
 idea:
 - add a learn more button in the individual candidate page, and have that link to their personal website for their campaign 
