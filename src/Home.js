@@ -19,7 +19,7 @@ class Home extends Component {
         })
         return (
             <div className="candidatesHome">
-                <h2>Candidates</h2>
+                <h2>The Candidates</h2>
                 <div className="candidatesListContainer">{allCandidates}</div>
             </div>
         )

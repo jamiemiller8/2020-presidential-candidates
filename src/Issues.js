@@ -7,7 +7,7 @@ class Issues extends Component {
         return (
             <div className="issues-container">
                 <div className="issues-title">
-                    <h1>Issues</h1>
+                    <h1>The Issues</h1>
                 </div>
                 <div className="issues-list">
                 <div className="issue1">
@@ -36,7 +36,7 @@ class Issues extends Component {
                 </div>
                 <div className="issue5">
                     <Link to="/issues/:issue/">
-                        <img class="issue5-image" src="https://images-na.ssl-images-amazon.com/images/I/51Do5zdoWVL._SX466_.jpg"></img>
+                        <img class="issue-image" src="https://images-na.ssl-images-amazon.com/images/I/51Do5zdoWVL._SX466_.jpg"></img>
                         <h3>Gun Control</h3>
                     </Link>
                 </div>
