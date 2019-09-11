@@ -43,3 +43,34 @@
 // }
 
 // export default Home;
+
+import React, { Component } from "react";
+import './Home.css';
+import {Link} from 'react-router-dom';
+
+class Home extends Component {
+    constructor(props) {
+        super(props)
+    }
+    render() {
+        let allCandidates = this.props.candidates.map(candidate => {
+            return (
+                <div className="candidatesHomeContainer" key={candidate.name}>
+                   <Link to={`/candidates/${candidate.name}`}>
+                       <img src={candidate.image} alt={candidate.name}></img>
+                    </Link> 
+                </div>
+            )
+        })
+        return (
+            <div className="candidatesHome">
+                <h2>Candidates</h2>
+                {/* <Link to="/form/">
+                    Submit an edit request
+                </Link> */}
+                {allCandidates}
+            </div>
+        )
+    }
+}
+export default Home;
