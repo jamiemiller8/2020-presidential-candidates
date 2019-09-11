@@ -24,7 +24,7 @@ const candidates = [
   {
     "name": "Kirsten Gillibrand",
     "state": "New York",
-    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiW6L7ArMfkAhXpQ98KHTYaD_MQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.gillibrand.senate.gov%2Fabout&psig=AOvVaw2yBbEe2Hkol-VFPaqSMqWS&ust=1568242444052465",
+    "image": "https://www.gillibrand.senate.gov/imo/media/image/Gillibrand_Kirsten-041019-RLH-025a.jpg",
     "website": "https://kirstengillibrand.com/",
     "stillRunning": false,
     "currentTitle": "Senator",
@@ -38,7 +38,7 @@ const candidates = [
   {
     "name": "Kamala Harris",
     "state": "California",
-    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjBzfrNrMfkAhVQn-AKHaXWB1EQjRx6BAgBEAQ&url=https%3A%2F%2Fcivil.services%2Fus-senate%2Fcalifornia%2Fsenator%2Fkamala-harris&psig=AOvVaw19h5VnsMiOHrKhhgFxsN0b&ust=1568242465424013",
+    "image": "https://cdn.civil.services/us-senate/headshots/1024x1024/kamala-harris.jpg",
     "website": "https://kamalaharris.org/",
     "stillRunning": true,
     "currentTitle": "Senator",
@@ -52,7 +52,7 @@ const candidates = [
   {
     "name": "Amy Klobuchar",
     "state": "Minnesota",
-    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjVkpbZrMfkAhWhmOAKHTmyAUoQjRx6BAgBEAQ&url=https%3A%2F%2Fballotpedia.org%2FU.S._Senate_delegation_from_Minnesota&psig=AOvVaw22eM6r5KW15mcvd0Moqhi1&ust=1568242490377139",
+    "image": "https://www.colorado.edu/cwa/sites/default/files/styles/medium/public/people/klobuchar_headshot_square.png?itok=JWpAoL9e",
     "website": "https://amyklobuchar.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
@@ -66,7 +66,7 @@ const candidates = [
   {
     "name": "Elizabeth Warren",
     "state": "Massachusetts",
-    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiz9J7prMfkAhUhh-AKHfPRBpAQjRx6BAgBEAQ&url=http%3A%2F%2Ftherespectabilityreport.org%2F2018%2F11%2F06%2Fwarren-wins%2F&psig=AOvVaw2mavud4sRfa5G22JvvkWvJ&ust=1568242512812937",
+    "image": "https://ourfinancialsecurity.org/wp-content/uploads/2015/04/Warren-headshot.jpg",
     "website": "https://elizabethwarren.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
@@ -80,7 +80,7 @@ const candidates = [
   {
     "name": "Marianne Williamson",
     "state": "California",
-    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiwteHzrMfkAhVqh-AKHSmvAfMQjRx6BAgBEAQ&url=https%3A%2F%2Ftalkingpointsmemo.com%2Fnews%2Fmarianne-williamson-insist-not-cult-leader-anti-vaxxer&psig=AOvVaw0k-y36jCqVQgXpj-ulbEwP&ust=1568242546653730",
+    "image": "https://pbs.twimg.com/profile_images/859507720814305281/nTvKAGL6_400x400.jpg",
     "website": "https://www.marianne2020.com/",
     "stillRunning": true,
     "currentTitle": "New Age Author",
