@@ -40,3 +40,22 @@ Gold Plan:
 - Add an 'important dates' section - which lists dates of the primary debates or dates to register to vote, etc.
 - Search bar ==> can search by issue / candidate
 - Maybe add more in-detph detail of a candidate's stance towards a specific issue. For now, I'm keeping it as simple as possible
+
+
+Link for Heartbeat picture: 
+https://static.scientificamerican.com/sciam/cache/file/1B9377D3-BFA7-480D-8EFFCF13EA7E195D_source.jpg?w=590&h=800&48A88A85-876E-4490-A428E52BC0CE8A9A 
+
+Link for Immigration picture:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44XZzI9c_orR2TYfOCdYUs0EaenTwjQPQNkZredZI-6QhD_AppA
+
+Link for Criminal Justice picture:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPMeE2z3qBP3ku1QQY5Y3fbzjjVqDeEvA4gSFBQxvshafJIMurA
+
+Link for Minimum wage picture:
+https://clipartix.com/wp-content/uploads/2018/03/cartoon-money-2018-43.jpg
+
+Link for Gun Control picture: 
+https://images-na.ssl-images-amazon.com/images/I/31nGqnlqhlL._SX425_.jpg
+
+Link for Military picture:
+https://png.pngtree.com/element_our/20190529/ourlarge/pngtree-cartoon-military-tank-illustration-image_1215123.jpg
