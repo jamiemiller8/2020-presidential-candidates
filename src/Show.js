@@ -18,9 +18,9 @@ class Show extends Component {
         <h3 className="position-state">
           {chosenCandidate[0].currentTitle} from {chosenCandidate[0].state}
         </h3>
-        <img src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
+        <img class="show-image" src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
         <p>Status: {runningPresent}</p>
-        <button class="btn">
+        <button  id="show-btn" class="btn">
           <div className="learn-more-btn">
             <a href={chosenCandidate[0].website}>Learn More</a>
           </div>

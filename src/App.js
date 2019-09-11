@@ -10,7 +10,7 @@ const candidates = [
   {
     "name": "Tulsi Gabbard",
     "state": "Hawaii",
-    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiy-aSwrMfkAhXuT98KHe7HABoQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.honolulumagazine.com%2FHonolulu-Magazine%2FMarch-2019%2FWho-is-Tulsi-Gabbard-Its-Complicated%2F&psig=AOvVaw1DmHqNZ9qY_mUs-q9y6wPx&ust=1568242409869405",
+    "image": "http://honolulumagazine-images.dashdigital.com/2019%20Web%20Stories/02-February/Tulsi_Gabbard%2C_official_portrait%2C_113th_Congress.jpg",
     "website": "https://www.tulsi2020.com/",
     "stillRunning": true,
     "currentTitle": "Representative",
