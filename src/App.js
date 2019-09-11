@@ -9,7 +9,7 @@ import { Route, Switch, Link} from 'react-router-dom'
 const candidates = [
   {
     "name": "Tulsi Gabbard",
-    "state": "HI",
+    "state": "Hawaii",
     "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiy-aSwrMfkAhXuT98KHe7HABoQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.honolulumagazine.com%2FHonolulu-Magazine%2FMarch-2019%2FWho-is-Tulsi-Gabbard-Its-Complicated%2F&psig=AOvVaw1DmHqNZ9qY_mUs-q9y6wPx&ust=1568242409869405",
     "website": "https://www.tulsi2020.com/",
     "stillRunning": true,
@@ -23,7 +23,7 @@ const candidates = [
   },
   {
     "name": "Kirsten Gillibrand",
-    "state": "NY",
+    "state": "New York",
     "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiW6L7ArMfkAhXpQ98KHTYaD_MQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.gillibrand.senate.gov%2Fabout&psig=AOvVaw2yBbEe2Hkol-VFPaqSMqWS&ust=1568242444052465",
     "website": "https://kirstengillibrand.com/",
     "stillRunning": false,
@@ -37,7 +37,7 @@ const candidates = [
   },
   {
     "name": "Kamala Harris",
-    "state": "CA",
+    "state": "California",
     "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjBzfrNrMfkAhVQn-AKHaXWB1EQjRx6BAgBEAQ&url=https%3A%2F%2Fcivil.services%2Fus-senate%2Fcalifornia%2Fsenator%2Fkamala-harris&psig=AOvVaw19h5VnsMiOHrKhhgFxsN0b&ust=1568242465424013",
     "website": "https://kamalaharris.org/",
     "stillRunning": true,
@@ -51,7 +51,7 @@ const candidates = [
   },
   {
     "name": "Amy Klobuchar",
-    "state": "MN",
+    "state": "Minnesota",
     "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjVkpbZrMfkAhWhmOAKHTmyAUoQjRx6BAgBEAQ&url=https%3A%2F%2Fballotpedia.org%2FU.S._Senate_delegation_from_Minnesota&psig=AOvVaw22eM6r5KW15mcvd0Moqhi1&ust=1568242490377139",
     "website": "https://amyklobuchar.com/",
     "stillRunning": true,
@@ -65,7 +65,7 @@ const candidates = [
   },
   {
     "name": "Elizabeth Warren",
-    "state": "MA",
+    "state": "Massachusetts",
     "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiz9J7prMfkAhUhh-AKHfPRBpAQjRx6BAgBEAQ&url=http%3A%2F%2Ftherespectabilityreport.org%2F2018%2F11%2F06%2Fwarren-wins%2F&psig=AOvVaw2mavud4sRfa5G22JvvkWvJ&ust=1568242512812937",
     "website": "https://elizabethwarren.com/",
     "stillRunning": true,
@@ -79,7 +79,7 @@ const candidates = [
   },
   {
     "name": "Marianne Williamson",
-    "state": "CA",
+    "state": "California",
     "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiwteHzrMfkAhVqh-AKHSmvAfMQjRx6BAgBEAQ&url=https%3A%2F%2Ftalkingpointsmemo.com%2Fnews%2Fmarianne-williamson-insist-not-cult-leader-anti-vaxxer&psig=AOvVaw0k-y36jCqVQgXpj-ulbEwP&ust=1568242546653730",
     "website": "https://www.marianne2020.com/",
     "stillRunning": true,
