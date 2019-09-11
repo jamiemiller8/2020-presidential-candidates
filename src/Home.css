@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: #EFE2BA;
 }
 
@@ -12,6 +12,7 @@ p {
     padding: 10px;
     font-size: 18px;
     margin-top: 50px;
+    font-weight: bold;
 }
 
 .link {
@@ -34,9 +35,9 @@ p {
     margin-top: 120px;
     transition: 0.4s;
     opacity: 1;
-    border-radius: 120px;
+    border-radius: 5px;
 }
 
 .btn:hover {
     opacity: 0.6;
-}
+} */
