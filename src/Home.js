@@ -57,7 +57,8 @@ class Home extends Component {
             return (
                 <div className="candidatesHomeContainer" key={candidate.name}>
                    <Link to={`/candidates/${candidate.name}`}>
-                       <img src={candidate.image} alt={candidate.name}></img>
+                       <img src={candidate.image}></img>
+                       <h4>{candidate.name}</h4>
                     </Link> 
                 </div>
             )
@@ -65,10 +66,7 @@ class Home extends Component {
         return (
             <div className="candidatesHome">
                 <h2>Candidates</h2>
-                {/* <Link to="/form/">
-                    Submit an edit request
-                </Link> */}
-                {allCandidates}
+                <div className="candidatesListContainer">{allCandidates}</div>
             </div>
         )
     }
