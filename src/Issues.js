@@ -36,7 +36,7 @@ class Issues extends Component {
                 </div>
                 <div className="issue5">
                     <Link to="/issues/:issue/">
-                        <img class="issue-image" src="https://images-na.ssl-images-amazon.com/images/I/31nGqnlqhlL._SX425_.jpg"></img>
+                        <img class="issue5-image" src="https://images-na.ssl-images-amazon.com/images/I/51Do5zdoWVL._SX466_.jpg"></img>
                         <h3>Gun Control</h3>
                     </Link>
                 </div>

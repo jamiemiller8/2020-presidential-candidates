@@ -55,7 +55,7 @@ Link for Minimum wage picture:
 https://clipartix.com/wp-content/uploads/2018/03/cartoon-money-2018-43.jpg
 
 Link for Gun Control picture: 
-https://images-na.ssl-images-amazon.com/images/I/31nGqnlqhlL._SX425_.jpg
+https://images-na.ssl-images-amazon.com/images/I/51Do5zdoWVL._SX466_.jpg
 
 Link for Military picture:
 https://png.pngtree.com/element_our/20190529/ourlarge/pngtree-cartoon-military-tank-illustration-image_1215123.jpg
