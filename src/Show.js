@@ -22,7 +22,7 @@ class Show extends Component {
         <p>Status: {runningPresent}</p>
         <button  id="show-btn" class="btn">
           <div className="learn-more-btn">
-            <a href={chosenCandidate[0].website}>Learn More</a>
+            <a target="_blank" href={chosenCandidate[0].website}>Learn More</a>
           </div>
         </button>
       </div>

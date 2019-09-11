@@ -2,7 +2,7 @@
   {
     "name": "Tulsi Gabbard",
     "state": "HI",
-    "imageUrl": "src/images/Tulsi_Gabbard,_official_portrait,_113th_Congress.jpg",
+    "image": "src/images/Tulsi_Gabbard,_official_portrait,_113th_Congress.jpg",
     "website": "https://www.tulsi2020.com/",
     "stillRunning": true,
     "currentTitle": "Representative",
@@ -16,7 +16,7 @@
   {
     "name": "Kirsten Gillibrand",
     "state": "NY",
-    "imageUrl": "src/images/Gillibrand_Kirsten-041019-RLH-025a.jpg",
+    "image": "src/images/Gillibrand_Kirsten-041019-RLH-025a.jpg",
     "website": "https://kirstengillibrand.com/",
     "stillRunning": false,
     "currentTitle": "Senator",
@@ -30,7 +30,7 @@
   {
     "name": "Kamala Harris",
     "state": "CA",
-    "imageUrl": "src/images/kamala-harris-headshot.jpg",
+    "image": "src/images/kamala-harris-headshot.jpg",
     "website": "https://kamalaharris.org/",
     "stillRunning": true,
     "currentTitle": "Senator",
@@ -44,7 +44,7 @@
   {
     "name": "Amy Klobuchar",
     "state": "MN",
-    "imageUrl": "src/images/Amy_Klobuchar.jpg",
+    "image": "src/images/Amy_Klobuchar.jpg",
     "website": "https://amyklobuchar.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
@@ -58,7 +58,7 @@
   {
     "name": "Elizabeth Warren",
     "state": "MA",
-    "imageUrl": "src/images/Elizabeth-Warren-headshot.jpg",
+    "image": "src/images/Elizabeth-Warren-headshot.jpg",
     "website": "https://elizabethwarren.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
@@ -72,7 +72,7 @@
   {
     "name": "Marianne Williamson",
     "state": "CA",
-    "imageUrl": "src/images/Marianne-Williamson-headshot.jpg",
+    "image": "src/images/Marianne-Williamson-headshot.jpg",
     "website": "https://www.marianne2020.com/",
     "stillRunning": true,
     "currentTitle": "New Age Author",
