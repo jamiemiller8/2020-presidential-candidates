@@ -4,6 +4,7 @@ import Home from './Home'
 import Show from './Show'
 import Form from './Form'
 import Landing from './Landing'
+import Issues from './Issues'
 import { Route, Switch, Link} from 'react-router-dom'
 
 const candidates = [
@@ -108,6 +109,7 @@ class App extends Component {
             <Route exact path='/landing/' component = {Landing}/>
             <Route exact path="/candidates/" render={() => {return <Home {...this.state}/>}} />
             <Route exact path="/candidates/:candidate" render={(routerProps) => {return <Show {...routerProps} {...this.state} />}} />
+            <Route exact path="/issues/" component = {Issues}/>
             <Route exact path="/form" render={(routerProps) => {return <Form {...routerProps} {...this.state}/>}} />
           </Switch>
         </main>
