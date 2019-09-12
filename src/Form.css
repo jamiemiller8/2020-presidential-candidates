@@ -33,8 +33,15 @@ input, textarea {
     opacity: 1;
     color: #CD0000;
     font-weight: bold;
+
+    transform: translateZ(0);
+    transition-duration: 0.3s;
+    transition-property: transform;    
 }
 
-.submit-form:hover {
+.submit-form:hover,
+.submit-form:focus,
+.submit-form:active {
     opacity: 0.6;
+    transform: scale(1.1);
 }
