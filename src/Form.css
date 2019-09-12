@@ -1,0 +1,37 @@
+.form-container {
+    display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.contact-form {
+	width: 50%;
+	margin-bottom: 30px;
+    max-width: 400px;
+}
+
+input, textarea {
+	width: 100%;
+	margin: 10px;
+	box-sizing: border-box;
+	overflow: visible;
+    resize: none;
+    font-size: 20px;
+    border: solid #CD0000;
+    border-width: 1px;
+}
+
+.submit-form {
+	padding: 0.5rem 1rem;
+	margin: 1rem 0.5rem;
+	background-color: white;
+	border-radius: 5px;
+	cursor: pointer;
+	border: none;
+	min-width: 100px;
+}
+
+.submit-form:hover {
+    background-color: #4056A1;
+}
