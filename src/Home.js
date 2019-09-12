@@ -15,6 +15,7 @@ class Home extends Component {
                        <h4>{candidate.name}</h4>
                     </Link> 
                 </div>
+                
             )
         })
         return (
