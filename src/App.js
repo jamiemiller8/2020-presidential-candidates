@@ -7,7 +7,7 @@ import Landing from './Landing'
 import Issues from './Issues'
 import Abortion from './Issue/Abortion'
 import { Route, Switch, Link} from 'react-router-dom'
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navbar';
 
 const candidates = [
