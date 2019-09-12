@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link} from "react-router-dom";
 import "./Landing.css"
+// import {Button} from 'react-bootstrap';
 
 class Landing extends Component {
     render() {

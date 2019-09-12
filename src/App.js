@@ -8,6 +8,7 @@ import Issues from './Issues'
 import Abortion from './Issue/Abortion'
 import { Route, Switch, Link} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './Navbar';
 
 const candidates = [
   {
@@ -106,6 +107,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <div className="nav-head">
+          <Navbar />
+        </div>
         <main>
           <Switch>
             <Route exact path='/landing/' component = {Landing}/>
