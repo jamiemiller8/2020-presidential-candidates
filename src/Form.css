@@ -25,13 +25,16 @@ input, textarea {
 .submit-form {
 	padding: 0.5rem 1rem;
 	margin: 1rem 0.5rem;
-	background-color: white;
+    background-color: #C5CBE3;
+    border: solid #4056A1;
 	border-radius: 5px;
 	cursor: pointer;
-	border: none;
-	min-width: 100px;
+    min-width: 100px;
+    opacity: 1;
+    color: #CD0000;
+    font-weight: bold;
 }
 
 .submit-form:hover {
-    background-color: #4056A1;
+    opacity: 0.6;
 }
