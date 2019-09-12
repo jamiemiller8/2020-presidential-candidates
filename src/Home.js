@@ -8,6 +8,8 @@ class Home extends Component {
     }
     render() {
         let allCandidates = this.props.candidates.map(candidate => {
+            //add an if statement where the runningPrsent = false, then return grey scale pic
+            //then, the return statement below will be the "else return" 
             return (
                 <div className="candidatesHomeContainer" key={candidate.name}>
                    <Link to={`/candidates/${candidate.name}`}>
@@ -15,7 +17,6 @@ class Home extends Component {
                        <h4>{candidate.name}</h4>
                     </Link> 
                 </div>
-                
             )
         })
         return (
