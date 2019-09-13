@@ -55,3 +55,22 @@ footer {
     display: flex;
 }
 
+.Countdown {
+    margin: 70px auto;
+    padding-bottom: 20px;
+}
+
+.Countdown-col {
+    display: inline-block;
+}
+
+.Countdown-col-element {
+    display: inline-block;
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Countdown-col-elemtn strong {
+    font-size: 50px;
+}
