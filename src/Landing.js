@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import "./Landing.css";
 import Countdown from "./Countdown";
-// import {Button} from 'react-bootstrap';
-import Countapp from "./Countapp";
 
 class Landing extends Component {
   render() {
@@ -50,17 +48,10 @@ class Landing extends Component {
             </button>
           </div>
         </div>
-        {/* <div className="Countapp">
-          <h3 className="Countapp-title">
-            2020 Presidential Election Countdown:
-          </h3>
-          <Countdown date={`${year}-11-3T00:00:00`} />
-        </div> */}
         <footer>
           <h3 className="countdown-title">
             2020 Presidential Election:
           <Countdown date={`${year}-11-03T00:00:00`} />
-          {/* <Countapp /> */}
           </h3>
         </footer>
       </div>

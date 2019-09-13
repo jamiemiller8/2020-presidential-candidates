@@ -42,10 +42,6 @@ class Countdown extends Component {
         };
 
         //calculate time difference between now and expected date
-        // if (diff >= (365.25 * 86400)) { 
-        //     timeLeft.years = Math.floor(diff / (365.25 * 86400));
-        //     diff -= timeLeft.years * 365.25 * 86400;
-        // }
         if (diff >= 86400) {
             timeLeft.days = Math.floor(diff / 86400);
             diff -= timeLeft.days * 86400;
