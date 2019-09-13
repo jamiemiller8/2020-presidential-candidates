@@ -8,8 +8,15 @@ class Home extends Component {
     }
     render() {
         let allCandidates = this.props.candidates.map(candidate => {
-            //add an if statement where the runningPrsent = false, then return grey scale pic
+            //add an if statement where the runningPresent = false, then return grey scale pic
             //then, the return statement below will be the "else return" 
+            
+            // let runningPresent;
+            // if (allCandidates[0].stillRunning === false) {
+            //     <span style={{filter: grayscale(100%)}}></span>
+            // }
+
+
             return (
                 <div className="candidatesHomeContainer" key={candidate.name}>
                    <Link to={`/candidates/${candidate.name}`}>
