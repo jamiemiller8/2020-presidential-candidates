@@ -74,3 +74,8 @@ footer {
 .Countdown-col-elemtn strong {
     font-size: 50px;
 }
+
+.countdown-title {
+    text-align: center;
+    margin: 50px;
+}

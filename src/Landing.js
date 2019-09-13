@@ -59,10 +59,9 @@ class Landing extends Component {
         <footer>
           <h3 className="countdown-title">
             2020 Presidential Election:
-          </h3>
-          {/* <iframe src="http://free.timeanddate.com/countdown/i6xng2fa/n263/cf111/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pc4056a1/tc4056a1/fs100/szw320/szh135/tat2020%20Presidential%20Election/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2020-11-03T00:00:00" allowTransparency="true" frameborder="0" width="330" height="135"></iframe> */}
           <Countdown date={`${year}-11-03T00:00:00`} />
           {/* <Countapp /> */}
+          </h3>
         </footer>
       </div>
     );
