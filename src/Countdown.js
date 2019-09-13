@@ -21,7 +21,7 @@ class Countdown extends Component {
         }, 1000);
     }
 
-    componentWillMount() {
+    UNSAFE_componentWillMount() {
         this.stop();
     }
 

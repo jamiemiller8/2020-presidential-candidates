@@ -9,7 +9,7 @@ import Abortion from './Issue/Abortion'
 import { Route, Switch, Link} from 'react-router-dom'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navbar';
-import Countdown from './Countdown';
+// import Countdown from './Countdown';
 
 const candidates = [
   {
@@ -71,7 +71,7 @@ const candidates = [
   {
     "name": "Elizabeth Warren",
     "state": "Massachusetts",
-    "image": "https://ourfinancialsecurity.org/wp-content/uploads/2015/04/Warren-headshot.jpg",
+    "image": "https://tribwpmt.files.wordpress.com/2016/08/s014342268-3001-e1470344148473.jpg?quality=85&strip=all&w=1067",
     "website": "https://elizabethwarren.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
