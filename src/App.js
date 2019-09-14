@@ -5,11 +5,13 @@ import Show from './Show'
 import Form from './Form'
 import Landing from './Landing'
 import Issues from './Issues'
-import Abortion from './Issue/Abortion'
 import { Route, Switch, Link} from 'react-router-dom'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navbar';
+
+import Abortion from './Issue/Abortion'
 import Immigration from './Issue/Immigration';
+import CriminalJustice from './Issue/CriminalJustice';
 
 const candidates = [
   {
@@ -131,6 +133,7 @@ class App extends Component {
             <Route exact path="/issues/" component = {Issues}/>
             <Route exact path="/issues/abortion/" render={() => {return <Abortion {...this.state}/>}} />
             <Route exact path="/issues/immigration/" render={() => {return <Immigration {...this.state}/>}} />
+            <Route exact path="/issues/criminaljustice/" render={() => {return <CriminalJustice {...this.state}/>}} />
             <Route exact path="/form" render={(routerProps) => {return <Form {...routerProps} {...this.state}/>}} />
           </Switch>
         </main>

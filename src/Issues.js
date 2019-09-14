@@ -2,16 +2,8 @@ import React, { Component } from "react";
 import {Link} from "react-router-dom";
 import './Issues.css';
 import candidates from './data/w-candidate-data.json'
-//testing
 
 class Issues extends Component {
-    // constructor(){
-    //     super();
-    //         this.state ={
-    //             allCandidates:'',
-    //             clickedIssue:''
-    //     }
-    // }
     render() {
         return (
             <div className="issues-container">
