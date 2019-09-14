@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-import './Abortion.css';
 
-class Abortion extends Component {
+class Immigration extends Component {
     constructor() {
         super()
     }
@@ -10,12 +9,11 @@ class Abortion extends Component {
         let againstDiv = '';
         let otherDiv = '';
         let undecidedDiv = '';
-        
-        
+
         let allCandidates = this.props.candidates.map(candidate => {
             if (candidate.issues != undefined) {
-                if (candidate.issues.abortion != undefined) {
-                    switch (candidate.issues.abortion) {
+                if (candidate.issues.immigration != undefined) {
+                    switch (candidate.issues.immigration) {
                         case "For": forDiv += candidate.name + "<br/>"
                         break;
                         case "Against": againstDiv += candidate.name + "<br/>"
@@ -24,15 +22,15 @@ class Abortion extends Component {
                         break;
                         case "Undecided":  undecidedDiv += candidate.name + "<br/>" 
                         Default: forDiv += ''; //do nothing.
-                        break;
+                        break; 
                     }
                 }
             }
         })
         return (
-            <div className="abortion">
-                <h1>Abortion</h1>
-                <p>Does the candidate believe in abortions being legal?</p>
+            <div className="immigration">
+                <h1>Immigration</h1>
+                <p>Does the candidate believe that the federal government should decriminalize illegal immigration?</p>
                 <div className="issuesContainer">
                     <div>
                         <h2>For</h2>
@@ -56,4 +54,4 @@ class Abortion extends Component {
     }
 }
 
-export default Abortion;
+export default Immigration;

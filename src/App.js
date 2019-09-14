@@ -9,7 +9,7 @@ import Abortion from './Issue/Abortion'
 import { Route, Switch, Link} from 'react-router-dom'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navbar';
-// import Countdown from './Countdown';
+import Immigration from './Issue/Immigration';
 
 const candidates = [
   {
@@ -130,6 +130,7 @@ class App extends Component {
             <Route exact path="/candidates/:candidate" render={(routerProps) => {return <Show {...routerProps} {...this.state} />}} />
             <Route exact path="/issues/" component = {Issues}/>
             <Route exact path="/issues/abortion/" render={() => {return <Abortion {...this.state}/>}} />
+            <Route exact path="/issues/immigration/" render={() => {return <Immigration {...this.state}/>}} />
             <Route exact path="/form" render={(routerProps) => {return <Form {...routerProps} {...this.state}/>}} />
           </Switch>
         </main>
