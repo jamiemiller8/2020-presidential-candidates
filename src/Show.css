@@ -17,3 +17,6 @@ a {
     height: 205px;
     /* border-radius: 50%; */
 }
+img.disabled {
+    filter: grayscale(1) !important;
+}

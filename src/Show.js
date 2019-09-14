@@ -7,10 +7,13 @@ class Show extends Component {
       candidate => candidate.name === this.props.match.params.candidate
     );
     let runningPresent;
+    let disabledClass;
     if (chosenCandidate[0].stillRunning === false) {
       runningPresent = "This candidate is no longer running for President";
+      disabledClass = "disabled";
     } else {
       runningPresent = "This candidate is still in the race";
+      disabledClass = "";
     }
     return (
       <div className="candidatesShowContainer">
@@ -18,7 +21,7 @@ class Show extends Component {
         <h3 className="position-state">
           {chosenCandidate[0].currentTitle} from {chosenCandidate[0].state}
         </h3>
-        <img class="show-image" src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
+        <img class={"show-image " + disabledClass} src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
         <p>Status: {runningPresent}</p>
         <button  id="show-btn" class="btn">
           <div className="learn-more-btn">

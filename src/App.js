@@ -24,7 +24,15 @@ const candidates = [
     "criminalJustice": "Against",
     "minimumWage": "For",
     "gunControl": "For",
-    "military": "Against"
+    "military": "Against",
+    "issues": {
+      "abortion": "For",
+      "immigration": "Undecided",
+      "criminalJustice": "Against",
+      "minimumWage": "For",
+      "gunControl": "For",
+      "military": "Against"
+    }
   },
   {
     "name": "Kirsten Gillibrand",
@@ -38,7 +46,15 @@ const candidates = [
     "criminalJustice": "Against",
     "minimumWage": "For",
     "gunControl": "Other",
-    "military": "Against"
+    "military": "Against",
+    "issues": {
+      "abortion": "For",
+      "immigration": "Undecided",
+      "criminalJustice": "Against",
+      "minimumWage": "For",
+      "gunControl": "For",
+      "military": "Against"
+    }
   },
   {
     "name": "Kamala Harris",
@@ -117,7 +133,7 @@ class App extends Component {
             <Route exact path="/candidates/" render={() => {return <Home {...this.state}/>}} />
             <Route exact path="/candidates/:candidate" render={(routerProps) => {return <Show {...routerProps} {...this.state} />}} />
             <Route exact path="/issues/" component = {Issues}/>
-            <Route exact path="/issues/abortion/" component= {Abortion}/>
+            <Route exact path="/issues/abortion/" render={() => {return <Abortion {...this.state}/>}} />
             <Route exact path="/form" render={(routerProps) => {return <Form {...routerProps} {...this.state}/>}} />
           </Switch>
         </main>
