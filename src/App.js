@@ -19,12 +19,6 @@ const candidates = [
     "website": "https://www.tulsi2020.com/",
     "stillRunning": true,
     "currentTitle": "Representative",
-    "abortion": "For",
-    "immigration": "Undecided",
-    "criminalJustice": "Against",
-    "minimumWage": "For",
-    "gunControl": "For",
-    "military": "Against",
     "issues": {
       "abortion": "For",
       "immigration": "Undecided",
@@ -41,18 +35,12 @@ const candidates = [
     "website": "https://kirstengillibrand.com/",
     "stillRunning": false,
     "currentTitle": "Senator",
-    "abortion": "For",
-    "immigration": "For",
-    "criminalJustice": "Against",
-    "minimumWage": "For",
-    "gunControl": "Other",
-    "military": "Against",
     "issues": {
       "abortion": "For",
-      "immigration": "Undecided",
+      "immigration": "For",
       "criminalJustice": "Against",
       "minimumWage": "For",
-      "gunControl": "For",
+      "gunControl": "Other",
       "military": "Against"
     }
   },
@@ -63,12 +51,14 @@ const candidates = [
     "website": "https://kamalaharris.org/",
     "stillRunning": true,
     "currentTitle": "Senator",
-    "abortion": "For",
-    "immigration": "For",
-    "criminalJustice": "Against",
-    "minimumWage": "For",
-    "gunControl": "For",
-    "military": "Against"
+    "issues": {
+      "abortion": "For",
+      "immigration": "For",
+      "criminalJustice": "Against",
+      "minimumWage": "For",
+      "gunControl": "For",
+      "military": "Against"
+    }
   },
   {
     "name": "Amy Klobuchar",
@@ -77,12 +67,14 @@ const candidates = [
     "website": "https://amyklobuchar.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
-    "abortion": "Other",
-    "immigration": "Undecided",
-    "criminalJustice": "Against",
-    "minimumWage": "For",
-    "gunControl": "For",
-    "military": "For"
+    "issues": {
+      "abortion": "Other",
+      "immigration": "Undecided",
+      "criminalJustice": "Against",
+      "minimumWage": "For",
+      "gunControl": "For",
+      "military": "For"
+    }
   },
   {
     "name": "Elizabeth Warren",
@@ -91,12 +83,14 @@ const candidates = [
     "website": "https://elizabethwarren.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
-    "abortion": "For",
-    "immigration": "For",
-    "criminalJustice": "Against",
-    "minimumWage": "For",
-    "gunControl": "For",
-    "military": "Against"
+    "issues": {
+      "abortion": "For",
+      "immigration": "For",
+      "criminalJustice": "Against",
+      "minimumWage": "For",
+      "gunControl": "For",
+      "military": "Against"
+    }
   },
   {
     "name": "Marianne Williamson",
@@ -105,12 +99,14 @@ const candidates = [
     "website": "https://www.marianne2020.com/",
     "stillRunning": true,
     "currentTitle": "New Age Author",
-    "abortion": "For",
-    "immigration": "For",
-    "criminalJustice": "Against",
-    "minimumWage": "For",
-    "gunControl": "For",
-    "military": "Against"
+    "issues": {
+      "abortion": "For",
+      "immigration": "For",
+      "criminalJustice": "Against",
+      "minimumWage": "For",
+      "gunControl": "For",
+      "military": "Against"
+    }
   }
 ];
 
