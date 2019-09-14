@@ -3,19 +3,14 @@ import './Home.css';
 import {Link} from 'react-router-dom';
 
 class Home extends Component {
-    constructor(props) {
-        super(props)
+    constructor() {
+        super()
+
     }
     render() {
         let allCandidates = this.props.candidates.map(candidate => {
             //add an if statement where the runningPresent = false, then return grey scale pic
             //then, the return statement below will be the "else return" 
-            
-            // let runningPresent;
-            // if (allCandidates[0].stillRunning === false) {
-            //     <span style={{filter: grayscale(100%)}}></span>
-            // }
-
 
             return (
                 <div className="candidatesHomeContainer" key={candidate.name}>
