@@ -12,6 +12,8 @@ import Navbar from './Navbar';
 import Abortion from './Issue/Abortion'
 import Immigration from './Issue/Immigration';
 import CriminalJustice from './Issue/CriminalJustice';
+import MinimumWage from './Issue/MinimumWage';
+import GunControl from './Issue/GunControl';
 
 const candidates = [
   {
@@ -134,6 +136,8 @@ class App extends Component {
             <Route exact path="/issues/abortion/" render={() => {return <Abortion {...this.state}/>}} />
             <Route exact path="/issues/immigration/" render={() => {return <Immigration {...this.state}/>}} />
             <Route exact path="/issues/criminaljustice/" render={() => {return <CriminalJustice {...this.state}/>}} />
+            <Route exact path="/issues/minimumwage/" render={() => {return <MinimumWage {...this.state}/>}} />
+            <Route exact path="/issues/guncontrol/" render={() => {return <GunControl {...this.state}/>}} />
             <Route exact path="/form" render={(routerProps) => {return <Form {...routerProps} {...this.state}/>}} />
           </Switch>
         </main>
