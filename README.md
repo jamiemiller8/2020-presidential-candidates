@@ -8,3 +8,20 @@ Users are able to see a list of the candidates, their status within the election
 <br/><br/>
 <img align="center" src="src/images/womenof2020-landing.png" width="100%" height="100%">
 <br/><br/>
+
+## Data Used
+The information used for this website was retrieved from [Politico](https://www.politico.com/), [Ballotpedia](https://ballotpedia.org/Main_Page), and the [Associated Press News](https://www.apnews.com/).
+
+## Installation 
+- Fork this repository
+- Clone it down to your local repository
+- Install dependencies using 'npm install'
+- Open the cloned-down repository in your text editor
+- Type in 'npm run start' in order to run the website in your localhost 
+- Enjoy!
+
+## Technologies Used
+- [JavaScript](https://www.javascript.com/)
+- [React](https://reactjs.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Surge](https://surge.sh/)
