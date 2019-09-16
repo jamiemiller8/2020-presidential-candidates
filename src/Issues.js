@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {Link} from "react-router-dom";
 import './Issues.css';
-import candidates from './data/w-candidate-data.json.js'
+import candidates from './data/w-candidate-data.json'
 
 class Issues extends Component {
     render() {
