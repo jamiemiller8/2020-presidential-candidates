@@ -22,7 +22,7 @@ class Home extends Component {
             return (
                 <div className="candidatesHomeContainer" key={candidate.name}>
                    <Link to={`/candidates/${candidate.name}`}>
-                       <img class={"home-image " + disabledClass} src={candidate.image}></img>
+                       <img className={"home-image " + disabledClass} src={candidate.image}></img>
                        <h4>{candidate.name}</h4>
                     </Link> 
                 </div>

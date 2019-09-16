@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 
 class Immigration extends Component {
-    constructor() {
-        super()
-    }
     render() {
         let forDiv = '';
         let againstDiv = '';

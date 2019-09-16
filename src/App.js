@@ -136,16 +136,16 @@ class App extends Component {
         </div>
         <main>
           <Switch>
-            <Route exact path='/landing/' component = {Landing}/>
-            <Route exact path="/candidates/" render={() => {return <Home {...this.state}/>}} />
+            <Route exact path='/' component = {Landing}/>
+            <Route exact path="/candidates" render={() => {return <Home {...this.state}/>}} />
             <Route exact path="/candidates/:candidate" render={(routerProps) => {return <Show {...routerProps} {...this.state} />}} />
-            <Route exact path="/issues/" component = {Issues}/>
-            <Route exact path="/issues/abortion/" render={() => {return <Abortion {...this.state}/>}} />
-            <Route exact path="/issues/immigration/" render={() => {return <Immigration {...this.state}/>}} />
-            <Route exact path="/issues/criminaljustice/" render={() => {return <CriminalJustice {...this.state}/>}} />
-            <Route exact path="/issues/minimumwage/" render={() => {return <MinimumWage {...this.state}/>}} />
-            <Route exact path="/issues/guncontrol/" render={() => {return <GunControl {...this.state}/>}} />
-            <Route exact path="/issues/military/" render={() => {return <Military {...this.state}/>}} />
+            <Route exact path="/issues" component = {Issues}/>
+            <Route exact path="/issues/abortion" render={() => {return <Abortion {...this.state}/>}} />
+            <Route exact path="/issues/immigration" render={() => {return <Immigration {...this.state}/>}} />
+            <Route exact path="/issues/criminaljustice" render={() => {return <CriminalJustice {...this.state}/>}} />
+            <Route exact path="/issues/minimumwage" render={() => {return <MinimumWage {...this.state}/>}} />
+            <Route exact path="/issues/guncontrol" render={() => {return <GunControl {...this.state}/>}} />
+            <Route exact path="/issues/military" render={() => {return <Military {...this.state}/>}} />
             <Route exact path="/form" render={(routerProps) => {return <Form {...routerProps} {...this.state}/>}} />
           </Switch>
         </main>

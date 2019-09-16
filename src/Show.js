@@ -26,7 +26,7 @@ class Show extends Component {
         <p>{chosenCandidate[0].description}</p>
         <button  id="show-btn" class="btn">
           <div className="learn-more-btn">
-            <a target="_blank" href={chosenCandidate[0].website}>Learn More</a>
+            <a target="_blank" rel="noopener noreferrer" href={chosenCandidate[0].website}>Learn More</a>
           </div>
         </button>
       </div>
