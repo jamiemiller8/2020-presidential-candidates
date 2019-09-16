@@ -23,6 +23,7 @@ class Show extends Component {
         </h3>
         <img class={"show-image " + disabledClass} src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
         <p>Status: {runningPresent}</p>
+        <p>{chosenCandidate[0].description}</p>
         <button  id="show-btn" class="btn">
           <div className="learn-more-btn">
             <a target="_blank" href={chosenCandidate[0].website}>Learn More</a>

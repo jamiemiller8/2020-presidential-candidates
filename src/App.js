@@ -24,6 +24,7 @@ const candidates = [
     "website": "https://www.tulsi2020.com/",
     "stillRunning": true,
     "currentTitle": "Representative",
+    "description": "Gabbard currently serves as a US Representative for Hawaii's 2nd congressional district. She previously served as a Major in the Hawaii Army National Guard. Her platform focuses on foreign policy, healthcare, wealth inequality, and campaign finance reform.",
     "issues": {
       "abortion": "For",
       "immigration": "Undecided",
@@ -40,6 +41,7 @@ const candidates = [
     "website": "https://kirstengillibrand.com/",
     "stillRunning": false,
     "currentTitle": "Senator",
+    "description": "Gillibrand currently serves as a U.S. Senator from New York. She previously served as a Congresswoman representing New York's 20th congressional district from 2007-2009. Her platform focused on paid family leave, fighting sexual misconduct, publicly funded elections, and Medicare for all. Gillibrand dropped out of the primary on August 28th, 2019.",
     "issues": {
       "abortion": "For",
       "immigration": "For",
@@ -56,6 +58,7 @@ const candidates = [
     "website": "https://kamalaharris.org/",
     "stillRunning": true,
     "currentTitle": "Senator",
+    "description": "Harris currently serves as a U.S. Senator from California. She previously served as the Attorney General of California from 2011 to 2017. Her platform focuses on a middle class tax cut, reducing cash bail, election security, and Medicare for all.",
     "issues": {
       "abortion": "For",
       "immigration": "For",
@@ -72,6 +75,7 @@ const candidates = [
     "website": "https://amyklobuchar.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
+    "description": "Klobuchar currently serves as a U.S. Senator from Minnesota. She previously worked as a corporate lawyer. Her platform focuses on universal broadband, free trade, healthcare, and regulating technology.",
     "issues": {
       "abortion": "Other",
       "immigration": "Undecided",
@@ -88,6 +92,7 @@ const candidates = [
     "website": "https://elizabethwarren.com/",
     "stillRunning": true,
     "currentTitle": "Senator",
+    "description": "Warren currently serves as a U.S. Senator from Massachusetts. She previously served as Chair of the congressional oversight panel of the Troubled Asset Relief Program. Her platform focuses on worker control of corporations, Opioid epidemic, afforable housing, Medicare for all.",
     "issues": {
       "abortion": "For",
       "immigration": "For",
@@ -104,6 +109,7 @@ const candidates = [
     "website": "https://www.marianne2020.com/",
     "stillRunning": true,
     "currentTitle": "New Age Author",
+    "description": "Williamson currently works as a Bestselling, New Age book author. She previously worked as a spiritual lecturer and AIDS awareness activist. Her platform focuses on reproductive rights, wellness, immigration, and education.",
     "issues": {
       "abortion": "For",
       "immigration": "For",

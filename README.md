@@ -10,7 +10,7 @@ Users are able to see a list of the candidates, their status within the election
 <br/><br/>
 
 ## Data Used
-The information used for this website was retrieved from [Politico](https://www.politico.com/), [Ballotpedia](https://ballotpedia.org/Main_Page), and the [Associated Press News](https://www.apnews.com/).
+The information used for this website was retrieved from [Politico](https://www.politico.com/), [Ballotpedia](https://ballotpedia.org/Main_Page), [Business Insider] (https://www.businessinsider.com/), and the [Associated Press News](https://www.apnews.com/).
 
 ## Installation 
 - Fork this repository
