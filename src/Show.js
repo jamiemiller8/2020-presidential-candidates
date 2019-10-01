@@ -34,6 +34,27 @@ class Show extends Component {
             <a target="_blank" rel="noopener noreferrer" href={chosenCandidate[0].website}>Learn More</a>
           </div>
         </button>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" 
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous"></link>
+      
+      <div className="footer-content">
+        <ul class="social-media">
+          <li>
+            <a href={chosenCandidate[0].socialMedia.twitter} class="fa" target="_blank">
+              <i class="fab fa-twitter-square">
+              </i>
+            </a>
+          </li>
+          <li>
+            <a href={chosenCandidate[0].socialMedia.facebook} class="fa" target="_blank">
+              <i class="fab fa-facebook-square">
+              </i>
+            </a>
+          </li>
+        </ul>
+      </div>
+
       </div>
     );
   }

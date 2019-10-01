@@ -24,3 +24,22 @@ img.disabled {
 .candidate-video {
     justify-content: center;
 }
+
+.social-media {
+	list-style: none;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 0;
+}
+
+.fa {
+	font-size: 4rem;
+	color: #4056A1;
+	margin: 1rem;
+}
+
+.fa:hover {
+	opacity: 0.6;
+}
