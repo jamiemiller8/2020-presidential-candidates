@@ -6,7 +6,6 @@ import Form from './Form'
 import Landing from './Landing'
 import Issues from './Issues'
 import { Route, Switch, Link} from 'react-router-dom'
-// import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navbar';
 
 import Abortion from './Issue/Abortion'
