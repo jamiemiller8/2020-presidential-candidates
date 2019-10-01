@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import './Home.css';
 import {Link} from 'react-router-dom';
 
+//This file represents the page that shows all of the candidates and their headshots 
+
 class Home extends Component {
     constructor() {
         super()

@@ -35,7 +35,7 @@ const candidates = [
     "socialMedia": {
       "twitter": "https://twitter.com/TulsiGabbard?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "facebook": "https://www.facebook.com/TulsiGabbard/",
-      "youtube": "https://youtu.be/c0pCTjRIIhk"
+      "youtube": "https://www.youtube.com/embed/7GvNx7XZ2qM"
     }
   },
   {
@@ -57,7 +57,7 @@ const candidates = [
     "socialMedia": {
       "twitter": "https://twitter.com/SenGillibrand?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "facebook": "https://www.facebook.com/KirstenGillibrand/",
-      "youtube": "https://youtu.be/ACuUSppHc4M"
+      "youtube": "https://www.youtube.com/embed/ACuUSppHc4M"
     }
   },
   {
@@ -79,7 +79,7 @@ const candidates = [
     "socialMedia": {
       "twitter": "https://twitter.com/KamalaHarris?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "facebook": "https://www.facebook.com/KamalaHarris/",
-      "youtube": "https://www.youtube.com/watch?v=Ls7OSwHMoBc"
+      "youtube": "https://www.youtube.com/embed/Ls7OSwHMoBc"
     }
   },
   {
@@ -101,7 +101,7 @@ const candidates = [
     "socialMedia": {
       "twitter": "https://twitter.com/amyklobuchar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "facebook": "https://www.facebook.com/amyklobuchar/",
-      "youtube": "https://www.youtube.com/watch?v=mim0b_bbEtE"
+      "youtube": "https://www.youtube.com/embed/mim0b_bbEtE"
     }
   },
   {
@@ -123,7 +123,7 @@ const candidates = [
     "socialMedia": {
       "twitter": "https://twitter.com/ewarren?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "facebook": "https://www.facebook.com/ElizabethWarren/",
-      "youtube": "https://youtu.be/rbH0RU4GcVo"
+      "youtube": "https://www.youtube.com/embed/uF3IjYG8eeY"
     }
   },
   {
@@ -145,7 +145,7 @@ const candidates = [
     "socialMedia": {
       "twitter": "https://twitter.com/marwilliamson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "facebook": "https://www.facebook.com/williamsonmarianne/",
-      "youtube": "https://youtu.be/9nqQZGbA_jQ"
+      "youtube": "https://www.youtube.com/embed/9nqQZGbA_jQ"
     }
   }
 ];

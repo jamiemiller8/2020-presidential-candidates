@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import "./Show.css";
 
+//This file represents the individual candidate page, once the user clicks on one of the names 
+
 class Show extends Component {
   render() {
     let chosenCandidate = this.props.candidates.filter(
@@ -24,6 +26,8 @@ class Show extends Component {
         <img class={"show-image " + disabledClass} src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
         <p>Status: {runningPresent}</p>
         <p>{chosenCandidate[0].description}</p>
+        <iframe width="560" height="315" src={chosenCandidate[0].socialMedia.youtube} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+
         <button  id="show-btn" class="btn">
           <div className="learn-more-btn">
             <a target="_blank" rel="noopener noreferrer" href={chosenCandidate[0].website}>Learn More</a>
