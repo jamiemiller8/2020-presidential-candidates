@@ -19,3 +19,7 @@ a {
 img.disabled {
     filter: grayscale(1) !important;
 }
+
+.candidate-video {
+    justify-content: center;
+}
