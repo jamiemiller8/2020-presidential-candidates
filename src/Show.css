@@ -16,7 +16,6 @@ a {
 .show-image {
     width: 250px;
     height: 205px;
-    /* float: left; */
 }
 img.disabled {
     filter: grayscale(1) !important;
