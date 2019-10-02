@@ -24,7 +24,7 @@ class Show extends Component {
           {chosenCandidate[0].currentTitle} from {chosenCandidate[0].state}
         </h3>
         <img class={"show-image " + disabledClass} src={chosenCandidate[0].image} alt={chosenCandidate.name}></img>
-        <p>Status: {runningPresent}</p>
+        <p className="status">Status: {runningPresent}</p>
         <p>{chosenCandidate[0].description}</p>
         <div className="candidate-video">
         <iframe className="video" width="560" height="315" src={chosenCandidate[0].socialMedia.youtube} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
